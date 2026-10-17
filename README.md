@@ -43,7 +43,7 @@ AquaWatch/
 ├── .gitignore
 ├── templates/
 ├── static/
-└── screenshots/  (if included)
+
 ```
 
 ## Installation and Setup
